@@ -1,4 +1,5 @@
 README ÄR GJORD AV GROK.
+https://labb2wordpress.infinityfreeapp.com/index.php
 
 # Min Bucketlist – PHP-uppgift
 
