@@ -1,3 +1,5 @@
+README ÄR GJORD AV GROK.
+
 # Min Bucketlist – PHP-uppgift
 
 En enkel webbplats byggd med **HTML, CSS, objektorienterad PHP** och **MySQL**.
