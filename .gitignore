@@ -1,0 +1,19 @@
+# Operativsystem
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Miljövariabler / hemligheter (om du lägger till senare)
+.env
+config.local.php
+
+# Loggar
+*.log
+
+# Node (om du lägger till frontend-verktyg senare)
+node_modules/

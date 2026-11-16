@@ -34,7 +34,8 @@ require_once 'includes/header.php';
 <section class="card">
     <h2>Mina reflektioner om PHP</h2>
     <p>
-        <em>Jag är fortfarande inte tillräckligt insatt i php för att ge en slutgiltlig åsikt, men efter förra uppgiften och denna så har jag kommit fram till några saker. Dels så är php väldigt lätt att komma igång med och det känns mer som ett tillägg till html än en egen grej. Det finns också jättemycket dokumentation som självklart hjälper. Tyvärr är det dock väldigt jobbigt att tänka om för att få in objektorientering i tänket och det hjälper inte att felmeddelanden är så jäkla svåra att förstå ibland. Men allt som allt tror jag att jag kommer uppskatta php.</em>
+        <!-- Här fyller vi i dina egna tankar senare -->
+        <em>[Här skriver du vad du tycker om PHP, fördelar och nackdelar jämfört med andra språk du testat.]</em>
     </p>
     <p>
         <strong>Fördelar jag ser med PHP:</strong>

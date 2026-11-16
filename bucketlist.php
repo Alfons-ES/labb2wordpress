@@ -48,7 +48,8 @@ require_once 'includes/header.php';
 ?>
 
 <section class="card">
-    <h1>Bucketlist</h1>
+    <h1>Min Bucketlist</h1>
+    <p>Här samlar jag mål och drömmar jag vill uppnå under livet.</p>
 </section>
 
 <?php if ($message): ?>
